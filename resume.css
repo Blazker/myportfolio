@@ -1,0 +1,70 @@
+body {
+  font-family: "arial";
+  background-color: #e2e2e2;
+}
+
+.profile-image {
+  border: solid 4px #0399ff;
+  border-radius: 50%;
+}
+
+h1 {
+  background-color: #fdb924;
+  border-radius: 10px;
+  padding: 5px;
+}
+
+.section-title {
+  text-transform:capitalize;
+}
+
+/* background alternative #0399ff or #2575c3*  or grey e2e2e2*/
+.card{
+  margin: 30px;
+  padding: 20px 40px 40px;
+  max-width: 620px;
+  text-align: left;
+  background:  #3090c3;
+  border-bottom: 4px solid #ccc;
+  border-radius: 6px;
+  }
+
+.button {
+    width: 120px;
+    padding: 0px 5px 0px 5px;
+    margin: 0px 620px 0px 620px;
+    background-color: #fdb924;
+    color: black;
+    border-radius: 6px;
+    font-size: 26px;
+    font-style: bold;
+    text-align: center;
+    cursor: pointer;
+
+}
+.button:hover {
+    background: #ddb020;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19)
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+a:hover {
+  color: white;
+}
+/* top-right-bottom-left
+.button {
+  margin: 0px 620px 0px 620px;
+  padding: 0px 5px 0px 5px;
+  max-width: 90%;
+  text-align: center;
+  background: #fdb924;
+  border-bottom: 4px solid #ccc;
+  border-radius: 6px;
+  font-size: 16px;
+  */
+
+
+}
+/*alt color #edb950*/
